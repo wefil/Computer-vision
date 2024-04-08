@@ -1,0 +1,95 @@
+# To Do
+
+1. Go through LMS Lab Assignments
+
+    - Filters and Colour Correction : https://scikit-image.org/docs/stable/api/skimage.filters.html
+
+        - Smoothening
+
+        - Sharpening
+
+        - Contrast Correction
+
+        - Night Vision
+
+        - Blurring
+
+            - Gaussian Blur
+
+            - Motion Blur
+
+            - Defous Blur
+
+            - Haze
+
+        - Image negatives
+
+        - Shift Filters
+
+        - Box Filters
+
+    - Edge Detection
+
+        - LoG
+
+        - Laplacian
+
+        - DoG
+
+        - HoG
+
+        - SIFT
+
+    - Image Resizing
+
+    - Image format conversion
+
+    - Extraction of Colour bands from an image
+
+    - Adding Noise to an image - Uniform, Gaussian, Salt and Pepper
+
+        - Removing noise (Blind and kernel knownµ)
+
+    - Histograms
+
+        - Intensity Distribution
+
+        - Equalization and Matching
+
+    - Transforms
+
+        - Fourier
+
+        - Log
+
+        - Wavelet
+
+    - Metrics
+
+        - Noise : PSNR (Peak Signal to Noise Ratio), SSIM( Structural Similarity Index Measure), LPIPS( Learned Perceptual Image Patch Similarity).
+
+1. Look at standard datasets and tasks and list (Like MNIST)
+
+    - Classification, Identification, Segmentation
+
+    - Image Denoising (Wiener Filters, MAP and Autoencoder)
+
+    - Image Enhancement (Intensity Transformations, Contract enhancement, histogram processing, spatial filtering)
+
+    - Image Restoration (Inverse Fileter, Wiener Filter, MAP Formulation, Wavelets)
+
+    - Face Detection (Eigen Faces, Viola Jones, CNN)
+
+    - Image Dehazing
+
+1. Preprocessing techniques
+
+1. Models
+
+    - Model Architectures (DenseNet, ResNet etc)
+
+    - Pretrained Models (Fine tuning)
+
+    - Evaluation Metrics
+
+1. Try the Sample Questions
